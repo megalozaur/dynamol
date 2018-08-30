@@ -1,12 +1,7 @@
 # dynamol
 Simple molecular dynamics symulation of atoms bounded by van der Waals forces.
 
-                                                                     
-###############################################################################
-#                                                                             #
-#                              PROGRAM DYNAMOL 0.6                            #
-#                                                                             #
-###############################################################################
+## Usage                                                                     
 
 Program pobiera parametry z linii poleceń, nie jest konieczne ich podawanie.
 
